@@ -1,0 +1,8 @@
+<svg preserveAspectRatio="none" width="100%" height="100%" overflow="visible" style="display: block;" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Icon">
+<path id="Vector" d="M28 10H8C6.89543 10 6 10.8954 6 12V26C6 27.1046 6.89543 28 8 28H28C29.1046 28 30 27.1046 30 26V12C30 10.8954 29.1046 10 28 10Z" stroke="var(--stroke-0, #4CAF50)" stroke-width="2"/>
+<path id="Vector_2" d="M6 16H30" stroke="var(--stroke-0, #4CAF50)" stroke-width="2"/>
+<path id="Vector_3" d="M12 22H18" stroke="var(--stroke-0, #4CAF50)" stroke-width="2" stroke-linecap="round"/>
+<path id="Vector_4" d="M25 6L21 10L17 6" stroke="var(--stroke-0, #4CAF50)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</svg>
